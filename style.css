@@ -1,0 +1,11 @@
+*{
+    font-size: 2.5em;
+}
+
+div{
+    border: thin solid red;
+}
+
+.grey{
+    background-color: grey;
+}
